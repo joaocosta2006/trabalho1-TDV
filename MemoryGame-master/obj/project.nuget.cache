@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E/1ww53m+ER+VhWMNdu+9/5tDNssGhc6+dHC/6CKyoL9R1qzmyl28WOGSXOVbOKTIPgPy8nHCXMCbAkhJ4cXAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wollace Buarque\\Documents\\Programming\\VSCODE\\.NET\\MemoryGame\\MemoryGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wollace Buarque\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Wollace Buarque\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
