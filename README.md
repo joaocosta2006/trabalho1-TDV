@@ -386,3 +386,7 @@ Desenhar no ecrã o que está a acontecer.
 Mudar entre ecrãs.
 
 Resumidamente, Game1 é o motor que faz tudo andar: trata da janela, atualiza a lógica e desenha o que o jogador vê.
+
+
+
+Link do jogo: https://github.com/Wollace-Buarque/MemoryGame.git
